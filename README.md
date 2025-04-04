@@ -10,7 +10,6 @@
 1. [Disk Image Creation](#disk-image-creation)
 1. [PCSX-Redux Debugging](#pcsx-redux-debugging)
 1. [Soft Modding](#soft-modding)
-1. [Debugging on a PSX](#debugging-on-a-psx)
 
 
 
