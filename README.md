@@ -24,7 +24,7 @@
 ---
 ## Modern PSX Development Overview
 
-The year is 2024, and PSX development has never been easier and more.... modern (:question: :grey_question: :question:)
+The year is 2024, and PSX development has never been easier and more.... modern (???)
 
 You will use a combination of new tools, old tools, a lot of documentation, and a converted version of the official sony PSX software development kit called **PsyQ**.
 
@@ -418,5 +418,3 @@ In order to run homebrew media, or any alternative media on the PSX, the PSX mus
 1. Select the menu option to boot the disk.
 
 
----
-## Debugging on a PSX
